@@ -9,12 +9,20 @@ The Cisco Catalyst 2950 is an older managed switch, but it remains a great tool 
 
 ---
 
+
 ## 📖 Overview
 
 This lab walks through the full process of connecting to, resetting, configuring, and managing a **Cisco Catalyst 2950 switch** using the CLI.  
 It covers console connectivity, factory resets, switch setup from scratch, VLAN management, port security, and monitoring via SPAN.
 
 ---
+
+
+🖥️ **Live Project Webpage:**  
+👉 [Cisco Catalyst 2950 Switch Lab](https://mark-thompson01.github.io/MTPortfolio/Skills/Labbing%20with%20a%20Cisco%20Catalyst%202950%20Switch/)
+
+---
+
 
 ## 🎯 Purpose
 
