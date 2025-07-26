@@ -37,6 +37,15 @@ The purpose of this lab is to:
   - Using SPAN (port mirroring) to capture and analyze traffic
 - Build familiarity with the **Cisco IOS CLI**, a critical skill for networking and CCNA studies.
 
+
+---
+
+## 🛠️ Tech Used
+
+- Cisco Catalyst 2950 switch
+- DB9 serial to console port cable
+- PuTTY terminal emulator
+
 ---
 
 ## 📁 More from Me
